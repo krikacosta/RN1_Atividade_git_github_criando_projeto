@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(28, 32, 32);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+img{
+    width: 300px;
+    margin-left: 340px;
+    border-radius: 6%;
+}
+
+p{
+    text-align: center;
+    color: white;
+}
